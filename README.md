@@ -2,7 +2,7 @@
 
 **Perfil dedicado para compartilhamento de links do _curso [Alura](https://www.alura.com.br)_ nas aulas de tecnologia** 
 
--Contato 📫
+- Contato 📫
 
 milenijuliana@professor.educacao.sp.gov.br
 
